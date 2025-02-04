@@ -1,0 +1,19 @@
+body{
+	background-image: url(https://wallpapers.com/images/hd/windows-98-yaa4sbkls0sleaqm.jpg);
+	text-align: center;
+}
+.bg-Saffron{
+	background-color: hsl(42, 86%, 63%, 0.95);
+}
+.row{
+	text-align: center;
+}
+.bg-Colum{
+	background-color: #DBDFAC;
+}
+.W98-Text{
+	text-decoration-line: underline overline;
+	text-decoration-style: wavy;
+	color: Yellow;
+	font-weight: bold;
+}
